@@ -1,0 +1,14 @@
+{
+  "name": "rent-a-cat",
+  "version": "1.0.0",
+  "description": "SoftUni JS Applications Course Project.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
