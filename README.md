@@ -6,7 +6,7 @@ SoftUni JS Applications Course Project.
 ## Tech Stack
 - [x] Vanilla JS
 - [x] Firebase authentication
-- [ ] Firebase database
+- [x] Firebase database
 - [x] Firebase hosting
 - [x] Tailwind CSS with UI components
 - [x] Page.js for routing
