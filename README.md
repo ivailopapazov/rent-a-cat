@@ -14,4 +14,5 @@ SoftUni JS Applications Course Project.
 - [ ] Mocha for unit testing
 - [ ] Playwright for e2e testing
 - [ ] Bundling (resolve package names)
+- [x] Git Source Control with GitHub
 
