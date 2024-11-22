@@ -13,6 +13,7 @@ SoftUni JS Applications Course Project.
 - [x] Lit-html for templating
 - [ ] Mocha for unit testing
 - [ ] Playwright for e2e testing
-- [ ] Bundling (resolve package names)
+- [x] Vite Local dev server
+- [x] Vite Bundling (resolve package names)
 - [x] Git Source Control with GitHub
 
