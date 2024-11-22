@@ -9,6 +9,13 @@ async function getAll() {
     return cats;
 }
 
+async function getOne(catId) {
+    const response = await fetch(`${url}/${catId}.json`);
+    const data = await response.json();
+
+    return data;
+}
+
 async function create(data) {
     const response = await fetch(`${url}.json`, {
         method: 'POST',
@@ -26,4 +33,5 @@ async function create(data) {
 export default {
     getAll,
     create,
+    getOne,
 }
