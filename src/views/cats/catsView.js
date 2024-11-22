@@ -1,7 +1,6 @@
-import { database } from '../config/firebaseInit.js';
-import { ref, get } from 'firebase/database';
-import { html } from '../lib/lit-html.js';
-import catsApi from '../api/catsApi.js';
+import { html } from 'lit-html';
+
+import catsApi from '../../api/catsApi.js';
 
 const template = (cats) => html`
     <div class="bg-white">
